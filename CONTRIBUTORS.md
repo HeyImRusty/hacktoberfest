@@ -457,3 +457,8 @@
 - Place: The Netherlands
 - Bio: Student Software Engineering, loves front-end
 - GitHub: [Hidduh](https://github.com/Hidduh)
+
+#### Name: [Rusty](https://github.com/HeyImRusty)
+- Place: Washington, DC, USA
+- Bio: Hobby Graphic Designer
+- Github: [HeyImRusty](https://github.com/HeyImRusty)
